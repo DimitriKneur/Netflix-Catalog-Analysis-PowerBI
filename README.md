@@ -58,3 +58,5 @@ It consists in one netflix_titles.csv file that contains the following informati
 ## Results
 
 The final dashboard made with Power BI can be found [here](https://github.com/DimitriKneur/Netflix-Catalog-Analysis-PowerBI/blob/main/netflix_project_very_final.pbix).
+
+For those who can not load the Power BI file, snapshots of the dashboard are available [here](https://github.com/DimitriKneur/Netflix-Catalog-Analysis-PowerBI/blob/main/Dashboard_Snapshots/Dashboard_snapshots.md).
