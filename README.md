@@ -1,7 +1,12 @@
 # Netflix-Catalog-Analysis-PowerBI
 
-![Netflix Logo](https://github.com/DimitriKneur/Netflix-Catalog-Analysis-PowerBI/blob/main/Netflix_Logo_RGB.png?raw=true)
+<br>
 
+<p align="center">
+<img width="792px" src='https://github.com/DimitriKneur/Netflix-Catalog-Analysis-PowerBI/blob/main/Netflix_Catalog_Presentation_Snapshot.gif' />
+</p>
+
+<br>
 
 ## Main objective
 
